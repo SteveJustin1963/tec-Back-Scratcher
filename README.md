@@ -1,4 +1,4 @@
-# TEC-back-scratcher
+# TEC-Back-Scratcher
 Tec1 controlled back scratcher.
 
 
